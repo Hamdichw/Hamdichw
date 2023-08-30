@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamdi CHTIWI</h1>
 <h3 align="center">I am 👋 passionate about building 💡 innovative and 🖱 user-friendly web applications. I am also a 🏃 quick learner and I am always 🚀 up to date with the latest technologies. If you are looking for a 👨‍💻 full-stack developer who can help you build your next web application, please 👋 feel free to contact me.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=hamdichw&label=Profile%20views&color=0e75b6&style=flat](https://appsembler.com/wp-content/uploads/2023/07/beemarrie_developer_marketing_computer_strategy_deda1786-e5df-4461-957a-01d758880ac0.png)" alt="hamdichw" /> </p>
+<img align="right" alt="Coding" width="400" src="https://appsembler.com/wp-content/uploads/2023/07/beemarrie_developer_marketing_computer_strategy_deda1786-e5df-4461-957a-01d758880ac0.png">
+
 
 - 🌱 I’m currently learning **Angular , Spring Framework , nodeJs**
 
