@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular , Spring Framework , nodeJs**
 
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **Angular , Spring Framework **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
